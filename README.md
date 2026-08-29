@@ -2,7 +2,9 @@
   <img src="./assets/name-animation.svg" alt="ARNAV" width="510" />
 </p>
 
-<h3 align="center">AI/ML Enthusiast • Hackathon Builder • Exploring Quant Dev</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=AI%2FML+Enthusiast;Hackathon+Builder;Exploring+Quant+Development" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arnav-gupta-47032b390/">LinkedIn</a> ·
@@ -12,7 +14,8 @@
 
 ---
 
-## About Me
+<details open>
+<summary><h2 style="display:inline">About Me</h2></summary>
 
 ```javascript
 const arnav = {
@@ -26,21 +29,29 @@ const arnav = {
 };
 ```
 
+</details>
+
 ---
 
-## Tech Stack
+<details>
+<summary><h2 style="display:inline">Tech Stack</h2></summary>
 
 **Languages:** C, C++
 
 **Currently Exploring:** Artificial Intelligence, Machine Learning, Quant Development
 
+</details>
+
 ---
 
-## Contact
+<details>
+<summary><h2 style="display:inline">Contact</h2></summary>
 
 - LinkedIn: [arnav-gupta-47032b390](https://www.linkedin.com/in/arnav-gupta-47032b390/)
 - Gmail: arnav.officialmail.in@gmail.com
 - Thapar Mail: agupta25_be25@thapar.edu
+
+</details>
 
 ---
 
