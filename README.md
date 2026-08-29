@@ -1,16 +1,14 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/name-animation.svg" alt="ARNAV" width="510" />
+</p>
 
-<img src="./assets/name-animation.svg" alt="ARNAV" width="510" /><br/>
+<h3 align="center">AI/ML Enthusiast • Hackathon Builder • Exploring Quant Dev</h3>
 
-<sub>AI/ML Enthusiast • Hackathon Builder • Exploring Quant Dev</sub>
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/arnav-gupta-47032b390/">LinkedIn</a> ·
-<a href="mailto:arnav.officialmail.in@gmail.com">Gmail</a> ·
-<a href="mailto:agupta25_be25@thapar.edu">Thapar Mail</a>
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/arnav-gupta-47032b390/">LinkedIn</a> ·
+  <a href="mailto:arnav.officialmail.in@gmail.com">Gmail</a> ·
+  <a href="mailto:agupta25_be25@thapar.edu">Thapar Mail</a>
+</p>
 
 ---
 
